@@ -17,6 +17,7 @@
 ---
 
 ## 💻 Tech Stack:
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,mongodb,mysql,react,angular,html,css,figma,git,github&theme=dark" />
 </div>
@@ -33,6 +34,7 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yashika306&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
@@ -40,6 +42,7 @@
 ---
 
 ## ✍️ Random Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
@@ -47,6 +50,7 @@
 ---
 
 ## 🔝 Top Contributed Repos
+
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=yashika306&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 </p>
@@ -56,6 +60,7 @@
 [![](https://visitcount.itsvg.in/api?id=yashika306&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ## 💰 Support Me
+
 <p align="center">
   <a href="https://buymeacoffee.com/yashikaduthuluru@oksbi">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
