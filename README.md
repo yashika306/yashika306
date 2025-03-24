@@ -46,14 +46,4 @@
 
 ---
 
-<div align="center">
-  <a href="https://buymeacoffee.com/yashikaduthuluru@oksbi">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</div>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=yashika306&icon=0&color=6)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with ❤️ by Yashika -->
