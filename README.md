@@ -21,8 +21,8 @@
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashika306&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=yashika306&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yashika306&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashika306&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 
