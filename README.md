@@ -23,7 +23,7 @@
 <h2>📊 GitHub Stats</h2>
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" />
-  </a>
+  </a>    
 </div>
 
 <!-- Proudly created with ❤️ by Yashika -->
