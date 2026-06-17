@@ -21,8 +21,13 @@
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yashika306&theme=dark&hide_border=true&mode=daily" alt="GitHub Streak" />
-  </a>    
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=yashika306&theme=dark&hide_border=true&mode=daily" alt="GitHub Streak" />
+  </a>
+  <!-- <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=yashika306&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  </a> -->
 </div>
+
 
 <!-- Proudly created with ❤️ by Yashika -->
