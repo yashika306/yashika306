@@ -16,16 +16,15 @@
 - 🛡️ Currently a **Software Engineer Intern @ Zsecure**, working on security automation & CVE-integrated tooling
 - 🧠 Actively transitioning into **AI Engineering** — ML fundamentals → LLM/agent systems
 - 🏗️ Learning by shipping: every concept becomes a working project before it counts as "learned"
-- ✍️ Off-screen, I write comics and design characters
-
+- ✍️ Off-screen, I am sleeping
 <br>
 
 ## 🔭 Currently Building
 
 | Project | Stack | Status |
 |---|---|---|
-| House Price Prediction | Python, regression, Kaggle `train.csv` | 🔄 In progress |
-| Bookstore API | FastAPI + SQLite, CRUD, query filtering | 🔄 Near complete |
+| House Price Prediction | Python, regression, Kaggle `train.csv` | ✅ Completed |
+| Bookstore API | FastAPI + SQLite, CRUD, query filtering | ✅ Completed |
 | Student Performance Predictor | Python, scikit-learn, regression | ✅ Completed |
 | Expense Tracker / URL Shortener / Report Card Generator | Python, FastAPI | ✅ Completed |
 
