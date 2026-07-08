@@ -8,7 +8,6 @@
 <h3 align="center">AI Engineer in the making 🤖 | Software Engineer Intern @ Zsecure</h3>
 <p align="center"><i>Security automation by day, training regression models and building with the Claude API by night.</i></p>
 
-<br>
 
 ## 👩‍💻 About Me
 
@@ -17,7 +16,6 @@
 - 🧠 Actively transitioning into **AI Engineering** — ML fundamentals → LLM/agent systems
 - 🏗️ Learning by shipping: every concept becomes a working project before it counts as "learned"
 - ✍️ Off-screen, I am sleeping
-<br>
 
 ## 🔭 Currently Building
 
@@ -28,7 +26,6 @@
 | Student Performance Predictor | Python, scikit-learn, regression | ✅ Completed |
 | Expense Tracker / URL Shortener / Report Card Generator | Python, FastAPI | ✅ Completed |
 
-<br>
 
 ## 🧠 AI / ML
 
@@ -44,15 +41,11 @@
 
 <sub align="center">📚 Completed: Claude Platform 101 · Building with the Claude API · MCP · Subagents · Agent Skills (Anthropic Skilljar)</sub>
 
-<br><br>
-
 ## ⚙️ Engineering & Backend
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,java,py,js,nodejs,express,react,sqlite,mongodb,mysql,git,github,linux,vscode,postman,selenium&theme=dark" />
 </div>
-
-<br>
 
 ## 🌐 Connect with Me
 
@@ -63,8 +56,6 @@
   <a href="https://leetcode.com/u/yashika_duthuluru/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://www.geeksforgeeks.org/user/yashikaduthuluru6/"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </div>
-
-<br>
 
 ## 📊 GitHub Statistics
 
