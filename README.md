@@ -77,15 +77,11 @@
 ---
 
 ## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashika306&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0">
-</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=yashika306&theme=tokyonight&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashika306&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">💡 <i>Currently exploring: deeper LangGraph orchestration & production-grade RAG evaluation</i></p>
 
